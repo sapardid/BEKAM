@@ -182,7 +182,7 @@ main {
         padding-left: 30px;
         padding-bottom: 10px;
         background-color: var(--light-bg);
-        opacity: 0.5;
+        opacity: 0.7;
         border-top: var(--border);
         clip-path: polygon(0 0, 100% 0, 0 0);
     }
