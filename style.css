@@ -103,6 +103,9 @@ section {
 /* Tambahan editan */
 
 .cari {
+    height: 26px;
+    justify-content: center;
+    align-items: center;
     border: 1px solid var(--light-black);
     border-radius: 5px;
     flex: 0.8;
