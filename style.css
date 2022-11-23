@@ -53,6 +53,7 @@ section {
 }
 
 .header {
+    height: 56px;
     padding-top: 1rem;
     padding-bottom: 1rem;
     display: flex;
